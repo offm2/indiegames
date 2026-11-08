@@ -1,0 +1,15 @@
+{
+  "id": "snake",
+  "title": "Snake DM",
+  "description": "A modern take on the classic snake game that brings new life to this beloved arcade experience!",
+  "genre": "Arcade",
+  "year": 2025,
+  "icon": "🐍",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "",
+  "mobileFriendly": false,
+  "aspectRatio": "4 / 3",
+  "itchEmbedUrl": "https://itch.io/embed-upload/13927004?color=000000",
+  "itchPageUrl": "https://themostimportantperson.itch.io/snake-game",
+  "tags": ["multiplayer", "arcade", "singleplayer"]
+}

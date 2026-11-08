@@ -1,0 +1,15 @@
+{
+  "id": "themost",
+  "title": "The most important person in the world",
+  "description": "Discover the most important person in the world!",
+  "genre": "Educational",
+  "year": 2025,
+  "icon": "🎮",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "assets/thumbnails/theMost_game.png",
+  "mobileFriendly": true,
+  "aspectRatio": "9 / 16",
+  "itchEmbedUrl": "https://itch.io/embed-upload/15771999?color=333333",
+  "itchPageUrl": "https://themostimportantperson.itch.io/choose-the-most-important-person-in-the-world",
+  "tags": ["educational", "quiz", "singleplayer"]
+}

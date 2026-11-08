@@ -1,0 +1,15 @@
+{
+  "id": "bifold",
+  "title": "Bifold - Puzzle game",
+  "description": "Fold Board and join colors to win!",
+  "genre": "Puzzle",
+  "year": 2026,
+  "icon": "🧩",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "assets/thumbnails/Bifold_logo.png",
+  "mobileFriendly": true,
+  "aspectRatio": "9 / 16",
+  "itchEmbedUrl": "https://itch.io/embed-upload/19309530?color=1ff9d5",
+  "itchPageUrl": "https://themostimportantperson.itch.io/bifold",
+  "tags": ["puzzle", "arcade", "singleplayer"]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "premath",
+  "title": "Premath",
+  "description": "Premath is an engaging educational game designed specifically for preschoolers to learn counting and basic math skills in a fun, interactive way!",
+  "genre": "Educational",
+  "year": 2025,
+  "icon": "🧠",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "assets/thumbnails/premath.png",
+  "mobileFriendly": true,
+  "aspectRatio": "9 / 16",
+  "itchEmbedUrl": "https://itch.io/embed-upload/16102845?color=0eb1ae",
+  "itchPageUrl": "https://themostimportantperson.itch.io/premath",
+  "tags": ["educational", "maths", "preschool"]
+}

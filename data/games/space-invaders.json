@@ -1,0 +1,15 @@
+{
+  "id": "space-invaders",
+  "title": "Space Invaders -OMV",
+  "description": "Space Invaders Remake is a high-octane, retro-modern arcade shooter that evolves the classic formula with a unique perspective-shifting mechanic!",
+  "genre": "Arcade",
+  "year": 2026,
+  "icon": "👾",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "",
+  "mobileFriendly": false,
+  "aspectRatio": "4 / 3",
+  "itchEmbedUrl": "https://itch.io/embed-upload/17394665?color=000000",
+  "itchPageUrl": "https://themostimportantperson.itch.io/space-invaders",
+  "tags": ["space_shooter", "arcade", "singleplayer"]
+}

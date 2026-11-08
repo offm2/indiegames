@@ -1,0 +1,15 @@
+{
+  "id": "example-game",
+  "title": "Example Game",
+  "description": "This is a placeholder. Edit data/games/example-game.json with your real game info!",
+  "genre": "Arcade",
+  "year": 2025,
+  "icon": "🎮",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "",
+  "mobileFriendly": true,
+  "aspectRatio": "16 / 9",
+  "itchEmbedUrl": "https://itch.io/embed-upload/0000000?color=1e293b",
+  "itchPageUrl": "https://your-username.itch.io/your-game",
+  "tags": ["example", "arcade", "singleplayer"]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rbp-puzzle",
+  "title": "Random Box Push Puzzle",
+  "description": "An infinite procedural puzzle game where logic is your only weapon. Challenge your brain with millions of unique, solvables maps generated on the fly!",
+  "genre": "Puzzle",
+  "year": 2026,
+  "icon": "🧩",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "assets/thumbnails/rbpp.png",
+  "mobileFriendly": true,
+  "aspectRatio": "9 / 16",
+  "itchEmbedUrl": "https://itch.io/embed-upload/17287060?color=333333",
+  "itchPageUrl": "https://themostimportantperson.itch.io/random-box-push-puzzle",
+  "tags": ["puzzle", "arcade", "singleplayer"]
+}

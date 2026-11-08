@@ -1,0 +1,15 @@
+{
+  "id": "pickemup-blocks",
+  "title": "Pick'em up blocks'",
+  "description": "A challenging block puzzle game that tests your strategic thinking and problem-solving skills!",
+  "genre": "Puzzle",
+  "year": 2025,
+  "icon": "🧩",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "assets/thumbnails/pick.png",
+  "mobileFriendly": false,
+  "aspectRatio": "8 / 9",
+  "itchEmbedUrl": "https://itch.io/embed-upload/13926973?color=000000",
+  "itchPageUrl": "https://themostimportantperson.itch.io/pickemup-blocks",
+  "tags": ["puzzle", "arcade", "singleplayer"]
+}

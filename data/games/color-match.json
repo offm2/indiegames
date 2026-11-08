@@ -1,0 +1,15 @@
+{
+  "id": "color-match",
+  "title": "Color Match Challenge",
+  "description": "A revolutionary take on the classic Columns game , where you pick a piece can rotate color before putting on the board!",
+  "genre": "Puzzle",
+  "year": 2025,
+  "icon": "🧩",
+  "color": "linear-gradient(135deg, #ec4899, #f43f5e)",
+  "thumbnail": "assets/thumbnails/color_match_challenge.png",
+  "mobileFriendly": false,
+  "aspectRatio": "4 / 3",
+  "itchEmbedUrl": "https://itch.io/embed-upload/15337580?color=333333",
+  "itchPageUrl": "https://your-username.itch.io/your-game",
+  "tags": ["puzzle", "arcade", "singleplayer"]
+}

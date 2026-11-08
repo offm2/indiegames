@@ -1,0 +1,15 @@
+{
+  "id": "vertical-pong",
+  "title": "Veertical Pong Destruct",
+  "description": "A revolutionary take on the classic Pong game that turns the gameplay vertical and introduces destructive elements for an entirely new experience!",
+  "genre": "Arcade",
+  "year": 2025,
+  "icon": "🕹️",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "",
+  "mobileFriendly": false,
+  "aspectRatio": "9 / 12",
+  "itchEmbedUrl": "https://itch.io/embed-upload/13927349?color=fb922b",
+  "itchPageUrl": "https://themostimportantperson.itch.io/vertical-pong-destruct",
+  "tags": ["pong", "arcade", "singleplayer"]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pacman",
+  "title": "Pacman Remake",
+  "description": "A fast-paced Pacman remake featuring random labyrinths for endless replayability!",
+  "genre": "Arcade",
+  "year": 2025,
+  "icon": "🕹️",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "assets/thumbnails/pacman.png",
+  "mobileFriendly": false,
+  "aspectRatio": "4 / 3",
+  "itchEmbedUrl": "https://itch.io/embed-upload/14381612?color=0c0e17",
+  "itchPageUrl": "https://themostimportantperson.itch.io/pacman",
+  "tags": ["fastpaced", "arcade", "singleplayer"]
+}

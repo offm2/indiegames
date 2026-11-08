@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Games — Game Hub</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="index.html" class="logo">🎮 Game Hub</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="games.html" class="active">Games</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section">
+      <h1>All Games</h1>
+
+      <div class="filters">
+        <input type="search" id="search" placeholder="🔍 Search games…">
+        <select id="genre-filter">
+          <option value="">All genres</option>
+        </select>
+        <label class="checkbox">
+          <input type="checkbox" id="mobile-only">
+          📱 Mobile-friendly only
+        </label>
+      </div>
+
+      <div id="all-games" class="games-grid">
+        <p class="loading">Loading…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2025 Game Hub.</p>
+  </footer>
+
+  <script src="js/shared.js"></script>
+  <script src="js/games.js"></script>
+</body>
+</html>

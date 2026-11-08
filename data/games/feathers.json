@@ -1,0 +1,15 @@
+{
+  "id": "feathers",
+  "title": "Feathers of the Phoenix",
+  "description": "Feathers of the Phoenix is an immersive interactive gamebook that puts you in the role of a young hero tasked with restoring the legendary feather of phoenix. Your decisions drive the narrative.!",
+  "genre": "RPG",
+  "year": 2025,
+  "icon": "🎲",
+  "color": "linear-gradient(135deg, #facc15, #f97316)",
+  "thumbnail": "assets/thumbnails/feathers.png",
+  "mobileFriendly": true,
+  "aspectRatio": "9 / 16",
+  "itchEmbedUrl": "https://itch.io/embed-upload/18361262?color=fb922b",
+  "itchPageUrl": "https://themostimportantperson.itch.io/feathers-of-the-phoenix",
+  "tags": ["RPG", "gamebook", "singleplayer"]
+}
