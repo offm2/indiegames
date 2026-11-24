@@ -1,0 +1,15 @@
+{
+  "id": "Simplified-Gamebook",
+  "title": "Simplified gamebook engine",
+  "description": "It's a simplified gamebook engine to play gamebooks over the net - Gamebook displayed : From the Shadows - a collaborative work made by fans of the genre'!",
+  "genre": "RPG",
+  "year": 2026,
+  "icon": "🎲",
+  "color": "linear-gradient(135deg, #6366f1, #8b5cf6)",
+  "thumbnail": "",
+  "mobileFriendly": true,
+  "aspectRatio": "9/16",
+  "itchEmbedUrl": "https://itch.io/embed-upload/20777293?color=333333",
+  "itchPageUrl": "https://themostimportantperson.itch.io/ff-fan-engine",
+  "tags": ["rpg", "gamebook", "singleplayer"]
+}

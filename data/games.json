@@ -1,6 +1,6 @@
 [
-  "color-match.json",
-  "feathers.json",
+  "bifold.json",
+  "simplygamebooks.json",
   "pacman.json",
   "pickemup-blocks.json",
   "premath.json",
@@ -9,5 +9,6 @@
   "space-invaders.json",
   "themost.json",
   "vertical-pong.json",
-  "bifold.json"
+  "feathers.json",
+   "color-match.json"
 ]
